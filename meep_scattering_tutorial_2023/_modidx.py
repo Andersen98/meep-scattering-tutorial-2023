@@ -6,4 +6,8 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/Andersen98/meep-scattering-tutorial-2023',
                 'lib_path': 'meep_scattering_tutorial_2023'},
   'syms': { 'meep_scattering_tutorial_2023.core': { 'meep_scattering_tutorial_2023.core.foo': ( 'core.html#foo',
-                                                                                                'meep_scattering_tutorial_2023/core.py')}}}
+                                                                                                'meep_scattering_tutorial_2023/core.py')},
+            'meep_scattering_tutorial_2023.meep_scattering_tutorial_2023': { 'meep_scattering_tutorial_2023.meep_scattering_tutorial_2023.foo': ( 'meep_scattering_tutorial.html#foo',
+                                                                                                                                                  'meep_scattering_tutorial_2023/meep_scattering_tutorial_2023.py'),
+                                                                             'meep_scattering_tutorial_2023.meep_scattering_tutorial_2023.say_hello': ( 'meep_scattering_tutorial.html#say_hello',
+                                                                                                                                                        'meep_scattering_tutorial_2023/meep_scattering_tutorial_2023.py')}}}
