@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "meep-scattering-tutorial-2023"
+  site-url: "https://Andersen98.github.io/meep-scattering-tutorial-2023"
+  description: "Tutorial for meep scattering."
+  repo-branch: main
+  repo-url: "https://github.com/Andersen98/meep-scattering-tutorial-2023"
