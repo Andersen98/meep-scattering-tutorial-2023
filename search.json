@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "meep-scattering-tutorial-2023",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "meep-scattering-tutorial-2023",
+    "section": "Install",
+    "text": "Install\npip install meep_scattering_tutorial_2023"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "meep-scattering-tutorial-2023",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2\n\n\n\nsay_hello(\"Tom\")\n\n'Hello Tom!'"
+  },
+  {
+    "objectID": "meep_scattering_tutorial.html",
+    "href": "meep_scattering_tutorial.html",
+    "title": "meep_scattering_tutorial_2023",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsource\n\n\nfoo\n\n foo ()\n\n\ntest_eq(say_hello(\"Hamel\"),\"Hello Hamel!\")\n\n\ndisplay(SVG('&lt;svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"&gt;&lt;circle cx=\"50\" cy=\"50\" r=\"40\"/&gt;&lt;/svg&gt;'))"
+  }
+]
